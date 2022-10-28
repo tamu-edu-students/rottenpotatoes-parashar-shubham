@@ -10,6 +10,7 @@ more_movies = [
       :release_date => '19-Feb-2021'},
     {:title => 'CODA', :rating => 'PG-13',
       :release_date => '13-Aug-2021'},
+    # Favourite Movie added.  
     {:title => 'Interstellar', :rating => 'PG-13',
       :release_date => '26-Oct-2014'}
   ]
